@@ -1,1 +1,2 @@
-# electrical-engineering-1-
+# components
+uytytlu
